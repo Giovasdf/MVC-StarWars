@@ -1,0 +1,9 @@
+C:\Users\gmoli\source\repos\MVC_StarWars\Controlador\bin\Debug\Controlador.dll
+C:\Users\gmoli\source\repos\MVC_StarWars\Controlador\bin\Debug\Controlador.pdb
+C:\Users\gmoli\source\repos\MVC_StarWars\Controlador\bin\Debug\Modelo.dll
+C:\Users\gmoli\source\repos\MVC_StarWars\Controlador\bin\Debug\Modelo.pdb
+C:\Users\gmoli\source\repos\MVC_StarWars\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\gmoli\source\repos\MVC_StarWars\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\gmoli\source\repos\MVC_StarWars\Controlador\obj\Debug\Controlador.dll
+C:\Users\gmoli\source\repos\MVC_StarWars\Controlador\obj\Debug\Controlador.pdb
+C:\Users\gmoli\source\repos\MVC_StarWars\Controlador\obj\Debug\Controlador.csprojAssemblyReference.cache

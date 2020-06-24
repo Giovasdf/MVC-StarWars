@@ -1,0 +1,5 @@
+C:\Users\gmoli\source\repos\MVC_StarWars\Modelo\bin\Release\Modelo.dll
+C:\Users\gmoli\source\repos\MVC_StarWars\Modelo\bin\Release\Modelo.pdb
+C:\Users\gmoli\source\repos\MVC_StarWars\Modelo\obj\Release\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\gmoli\source\repos\MVC_StarWars\Modelo\obj\Release\Modelo.dll
+C:\Users\gmoli\source\repos\MVC_StarWars\Modelo\obj\Release\Modelo.pdb
